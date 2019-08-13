@@ -1,11 +1,10 @@
 <h1 align="center">
   Made.In.DRC
 </h1>
-------------------
+
 <p align="center">
 Here is the selection of incredible projects designed by Congolese developers.
 <strong>Let's keep on working guys.</strong></p>
-------------------
 
 <p align="center"><img align="center" src="img/9d4bb757d30d6e75207896842f7cd884--congo-kinshasa-vector-vector.jpg" height="400em" />
 </p>
