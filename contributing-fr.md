@@ -8,7 +8,7 @@ Pour ajouter un nouveau projet à la collection, assurez-vous qu'ils répondent 
 
 * Le projet doit être open source.
 
-* Le projet doit avoir une utilisation mondiale - ce qui signifie qu'il n'est pas conçu uniquement pour les Congolais et qu'il n'existe aucune limite géographique pour quiconque pourrait être intéressé par l'utilisation de ce projet.
+* Le projet doit avoir une utilisation mondiale - ce qui signifie qu'il n'est pas conçu uniquement pour les congolais et qu'il n'existe aucune limite géographique pour quiconque pourrait être intéressé par l'utilisation de ce projet.
 
 * Assurez-vous de fournir une URL de réseau social du créateur du projet en dehors de GitHub.
 
@@ -19,6 +19,6 @@ Pour ajouter un nouveau projet à la collection, assurez-vous qu'ils répondent 
 
 D'autres exigences peuvent être ajoutées au fil du temps.
 
-## Contribuer au site vitrine de Repo
+## Contribuer au site vitrine du dépot
 
 Ceci viendra...
