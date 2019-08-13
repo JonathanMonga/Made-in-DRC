@@ -15,7 +15,7 @@ Pour ajouter un nouveau projet à la collection, assurez-vous qu'ils répondent 
 * Essayez d’ajouter le projet à son emplacement alphabétique approprié.
 
 * Vous voudrez peut-être inclure le badge ** made in Nigeria ** dans votre projet. Placez le code suivant dans votre fichier ** README **:
-`[! [Made in DRC] (https://img.shields.io/badge/Made-In%20DRC-blue)] (https://github.com/JonathanMonga/Made-in-DRC) `
+`[![Made in DRC](https://img.shields.io/badge/Made-In%20DRC-blue)] (https://github.com/JonathanMonga/Made-in-DRC) `
 
 D'autres exigences peuvent être ajoutées au fil du temps.
 
