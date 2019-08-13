@@ -4,7 +4,7 @@
 
 Pour ajouter un nouveau projet à la collection, assurez-vous qu'ils répondent aux exigences suivantes, classés par ordre d'importance.
 
-* Le projet doit être ** fabriqué en République Démocratique du Congo ** comme son nom l'indique.
+* Le projet doit provenir de la **République Démocratique du Congo** comme son nom l'indique.
 
 * Le projet doit être open source.
 
@@ -14,7 +14,7 @@ Pour ajouter un nouveau projet à la collection, assurez-vous qu'ils répondent 
 
 * Essayez d’ajouter le projet à son emplacement alphabétique approprié.
 
-* Vous voudrez peut-être inclure le badge ** made in Nigeria ** dans votre projet. Placez le code suivant dans votre fichier ** README **:
+* Vous voudrez peut-être inclure le badge **Made in DRC** dans votre projet. Placez le code suivant dans votre fichier **README**:
 `[![Made in DRC](https://img.shields.io/badge/Made-In%20DRC-blue)] (https://github.com/JonathanMonga/Made-in-DRC) `
 
 D'autres exigences peuvent être ajoutées au fil du temps.
