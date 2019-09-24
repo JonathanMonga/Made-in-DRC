@@ -44,6 +44,7 @@ Here is the selection of incredible projects designed by Congolese developers.
 ## <a name="K"> </a>K
 
 ## <a name="L"> </a>L
+* [Lushitrap](https://lushitrap.com) - Lushitrap est un site web disponible pour tout celui ou celle qui voudrait avoir une visibilité sur le net , en l'occurence tout talentueux musicien qui partage sa musique à ses proches via les réseaux sociaux ou ailleurs. Lushitrap vous ouvre les horizons pour vous rendre visible au grand public... **By [@beloiKZ] (https://github.com/belotiKZ)**
 
 ## <a name="M"> </a>M
 
