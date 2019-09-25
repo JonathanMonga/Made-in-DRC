@@ -68,7 +68,7 @@ Here is the selection of incredible projects designed by Congolese developers.
 
 ## <a name="W"> </a>W
 
-* [Walimaji]() - Plateforme qui optimise la chaine de valeur agroalimentaire en résolvant l’asymétrie d’information entre ses différents acteurs. **By [@Itoti]()
+* [Walimaji](https://github.com/itotafrica/walimaji) - Plateforme qui optimise la chaine de valeur agroalimentaire en résolvant l’asymétrie d’information entre ses différents acteurs. **By [@itotafrica](https://github.com/itotafrica)
 
 ## <a name="X"> </a>X
 
